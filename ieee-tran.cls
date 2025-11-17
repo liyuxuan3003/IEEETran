@@ -2,6 +2,7 @@
 
 % -------------------------------- %
 % Load document class <IEEEtran>
-% conference -> set conference mode
-\PassOptionsToClass{conference}{IEEEtran}
+% Pass all the options to IEEEtran
+\DeclareOption*{\PassOptionsToClass{\CurrentOption}{IEEEtran}}
+\ProcessOptions\relax
 \LoadClass{IEEEtran}
