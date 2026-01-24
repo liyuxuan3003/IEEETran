@@ -1,4 +1,4 @@
-\ProvidesClass{ieee-conference}
+\ProvidesClass{ieee-tran}
 
 % -------------------------------- %
 % Load document class <IEEEtran>
