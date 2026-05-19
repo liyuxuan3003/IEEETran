@@ -18,7 +18,7 @@ git submodule add git@github.com:liyuxuan3003/IEEETran.git ieee-tran
 \makeatletter\def\input@path{{ieee-tran}}\makeatother
 ```
 
-IEEE期刊与会议分别使用不同的文档类选项
+使用文档类（IEEE期刊/IEEE会议）
 
 ```latex
 \documentclass[journal]{ieee-tran}
