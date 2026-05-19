@@ -4,6 +4,7 @@ IEEETran提供了一个适用于IEEE出版物的文档类`ieee-tran`，以Git子
 
 若需要完整的模板工程，参见IEEETranTemplate：https://github.com/liyuxuan3003/IEEETranTemplate
 
+IEEETran是LumosLaTeX计划的一部分：https://github.com/liyuxuan3003/LumosLaTeX
 ## 引入方式
 
 IEEETran以Git子模块的形式引入项目
