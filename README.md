@@ -2,7 +2,7 @@
 
 IEEETran提供了一个适用于IEEE出版物的文档类`ieee-tran`，以Git子模块方式引入，是对官方`IEEEtran.cls`的薄封装，所有选项透传至`IEEEtran`。
 
-若需要完整的模板工程，参见IEEETranTemplate：https://github.com/liyuxuan3003/IEEETranTemplate。
+若需要完整的模板工程，参见IEEETranTemplate：https://github.com/liyuxuan3003/IEEETranTemplate
 
 ## 引入方式
 
