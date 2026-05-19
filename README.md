@@ -6,7 +6,7 @@ IEEETran提供了一个适用于IEEE出版物的文档类`ieee-tran`，以Git子
 
 ## 引入方式
 
-IEEETran以Git子模块形式引入项目
+IEEETran以Git子模块的形式引入项目
 
 ```bash
 git submodule add git@github.com:liyuxuan3003/IEEETran.git ieee-tran
